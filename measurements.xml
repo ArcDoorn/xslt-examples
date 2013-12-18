@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<measurements>
+  <measurement>
+    <value>1</value>
+    <weight>1</weight>
+  </measurement>
+  <measurement>
+    <value>1</value>
+    <weight>2</weight>
+  </measurement>
+  <measurement>
+    <value>2</value>
+    <weight>1</weight>
+  </measurement>
+  <measurement>
+    <value>2</value>
+    <weight>2</weight>
+  </measurement>
+  <measurement>
+    <value>6</value>
+    <weight>0.5</weight>
+  </measurement>
+</measurements>

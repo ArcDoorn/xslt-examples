@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+  <a>true</a>
+  <text>Hallo Welt</text>
+  <i18ntext>label</i18ntext>
+  <object>
+    <object>
+      <test>true</test>
+      <text>Hallo Welt</text>
+    </object>
+  </object>
+</object>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person name="Anne" sex="female">
+  <note>
+    Anne is the grand grand parent and the root
+    of this family tree example.
+  </note>
+  <person name="Henny" sex="female">
+    <person name="Hildegard" sex="female">
+      <person name="Tobias" sex="male"/>
+    </person>
+    <person name="Gerhard" sex="female">
+      <note>
+        This the person we will center arround.
+      </note>
+      <person name="Phillipp" sex="male"/>
+      <person name="Julia" sex="female"/>
+    </person>
+    <person name="Helga" sex="female">
+      <person name="Andreas" sex="male"/>
+      <person name="Sonnja" sex="female"/>
+    </person>
+  </person>
+  <person name="Willi" sex="male"/>
+</person>
