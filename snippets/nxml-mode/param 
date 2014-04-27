@@ -1,0 +1,5 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: param 
+# key: <param>
+# --
+<xsl:param name=""/>

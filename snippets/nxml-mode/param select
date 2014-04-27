@@ -1,0 +1,5 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: param select
+# key: <psel>
+# --
+<xsl:param name="$1" select="$0"/>

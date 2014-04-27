@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: for-each-group 
+# key: <forgroup>
+# --
+<xsl:for-each-group select="$0" group-by="$1">
+</xsl:for-each-group>

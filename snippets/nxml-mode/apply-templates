@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: apply-templates
+# key: <apply>
+# --
+<xsl:apply-templates select="$1">
+  $0
+</xsl:apply-templates>

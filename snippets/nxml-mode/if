@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: if
+# key: <if>
+# --
+<xsl:if test="$1">
+  $0
+</xsl:if>

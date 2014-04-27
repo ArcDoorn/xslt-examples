@@ -1,0 +1,5 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: attribute select
+# key: <attribute>
+# --
+<xsl:attribute name="$1" select="$0"/>

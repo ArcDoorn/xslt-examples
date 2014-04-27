@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: param content
+# key: <pcon>
+# --
+<xsl:param name="$1">
+  $0
+</xsl:param>

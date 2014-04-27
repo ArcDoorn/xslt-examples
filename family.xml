@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<person name="Anne" sex="female">
+<person name="Anna" sex="female">
   <note>
-    Anne is the grand grand parent and the root
-    of this family tree example.
+    Anna ist meine Uroma und die Wurzel dieses Familienbaums.
   </note>
   <person name="Henny" sex="female">
     <person name="Hildegard" sex="female">
-      <person name="Tobias" sex="male"/>
+      <person name="Sebastian" sex="male"/>
     </person>
-    <person name="Gerhard" sex="female">
+    <person name="Gerhard" sex="male">
       <note>
-        This the person we will center arround.
+        Mein Onkel.
       </note>
       <person name="Phillipp" sex="male"/>
       <person name="Julia" sex="female"/>

@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: template match
+# key: <tm>
+# --
+<xsl:template match="$1">
+  $0
+</xsl:template>

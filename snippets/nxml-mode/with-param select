@@ -1,0 +1,5 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: with-param select
+# key: <wparamsel>
+# --
+<xsl:with-param name="$1" select="$0"/>

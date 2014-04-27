@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: otherwise
+# key: <otherwise>
+# --
+<xsl:otherwise>
+  $0
+</xsl:otherwise>

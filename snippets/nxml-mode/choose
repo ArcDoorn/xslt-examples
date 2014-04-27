@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: choose
+# key: <choose>
+# --
+<xsl:choose>
+  $0
+</xsl:choose>

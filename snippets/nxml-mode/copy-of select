@@ -1,0 +1,5 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: copy-of select
+# key: <csel>
+# --
+<xsl:copy-of select="$0"/>

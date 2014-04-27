@@ -1,0 +1,5 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: variable select
+# key: <varsel>
+# --
+<xsl:variable name="$1" select="$0"/>
